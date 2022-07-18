@@ -1,3 +1,3 @@
 # attila
 IEC tanfolzam Git alapok
-koszi :3kkkk
+koszi :3da
